@@ -406,7 +406,7 @@ body {
 }
 .background {
   padding-top: 30px;
-  min-height: 700px;
+  min-height: 690px;
   width: 100%;
   margin-right: auto;
   margin-left: auto;
@@ -477,7 +477,7 @@ body {
   display: block;
 }
 .yahoo {
-  margin-left: 90px;
+  margin-left: 135px;
 }
 .logo {
   border-bottom: 1px solid #ededed;
